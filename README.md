@@ -16,7 +16,9 @@ and adds them to the fridge.
 
 #### Bonus
 
-Add both food tasty and healthy foods to the fridge by only calling the function once! Hint: you can combine the arrays to a bigger array.
+Add both tasty and healthy foods to the fridge by only calling the function once! 
+
+**Hint**: you can combine the arrays to make a bigger array.
 
 ### Reference
 
