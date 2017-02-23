@@ -1,6 +1,6 @@
-# Fill the Fridge
+# 🍔 Fill the Fridge  🌮
 
-The fridge is looking kinda sparse—fill it with tasty and healthy foods!
+The fridge is looking kinda sparse—fill it with tasty 🥘 and healthy foods! 🥒
 
 ## Task
 
