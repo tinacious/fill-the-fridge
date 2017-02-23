@@ -23,3 +23,14 @@ Add both food tasty and healthy foods to the fridge by only calling the function
 Feel free to use Google to help you figure out how to do something.
 
 ![](screenshot.png)
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<small>[Solution](https://tinacious.github.io/fill-the-fridge) (don't peek!)</small>
